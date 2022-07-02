@@ -1,2 +1,0 @@
-# Raviranjan-kumar
-ds lab
